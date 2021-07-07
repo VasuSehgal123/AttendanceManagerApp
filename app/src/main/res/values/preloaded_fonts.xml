@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/aldrich</item>
+        <item>@font/allan</item>
+        <item>@font/amarante</item>
+        <item>@font/amaranth</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/cedarville_cursive</item>
+        <item>@font/cherry_cream_soda</item>
+        <item>@font/convergence</item>
+        <item>@font/dancing_script</item>
+        <item>@font/lemonada_light</item>
+    </array>
+</resources>
